@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>ICAPInterfaceLib</id>
+        <version>1.0.0.0</version>
+        <title>ICAPInterfaceLib</title>
+        <authors>SAI Global</authors>
+        <owners>SAI Global</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A library to interface with McAfee Antivirus server with ICAP protocol</description>
+        <releaseNotes>First version for testing
+
+1) Scan by file path
+2) Scan by byte array of file.
+3) Validation of file size, file name and file extension. 
+4) Configurable with appSetting section.</releaseNotes>
+        <copyright>Copyright © SAI Global 2015</copyright>
+    </metadata>
+    <files>
+        <file src="bin\Debug\ICAPInterfaceLib.dll" target="bin\ICAPInterfaceLib.dll" />
+    </files>
+</package>
