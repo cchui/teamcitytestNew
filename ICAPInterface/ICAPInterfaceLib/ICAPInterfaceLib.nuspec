@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <id>ICAPInterfaceLib</id>
+    <version>1.0.0.0</version>
+    <title>ICAPInterfaceLib</title>
+    <authors>SAI Global</authors>
+    <owners>SAI Global</owners>
     
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A library to interface with McAfee Antivirus server with ICAP protocol</description>
