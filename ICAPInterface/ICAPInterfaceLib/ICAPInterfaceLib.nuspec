@@ -17,6 +17,6 @@
         <copyright>Copyright © SAI Global 2015</copyright>
     </metadata>
     <files>
-        <file src="bin\Release\ICAPInterfaceLib.dll" target="bin\ICAPInterfaceLib.dll" />
+        <file src="bin\Release\ICAPInterfaceLib.dll" target="lib" />
     </files>
 </package>
