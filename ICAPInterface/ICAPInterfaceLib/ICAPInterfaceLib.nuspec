@@ -16,6 +16,14 @@
 3) Validation of file size, file name and file extension. 
 4) Configurable with appSetting section.</releaseNotes>
     <copyright>Copyright 2015</copyright>
-    
+    <references>
+		<reference file="ICAPInterfaceLib.dll" />
+	</references>
   </metadata>
+  
+  <files>
+        <file src="bin\Release\ICAPInterfaceLib.dll" target="lib" />
+  </files>
+  
+  
 </package>
