@@ -22,7 +22,7 @@
   </metadata>
   
   <files>
-        <file src="bin\Release\ICAPInterfaceLib.dll" target="lib" />
+        <file src="bin\Debug\ICAPInterfaceLib.dll" target="lib" />
   </files>
   
   
